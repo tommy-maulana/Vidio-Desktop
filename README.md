@@ -10,7 +10,7 @@ Download our latest release and you're off to the races!
 
 | Windows | macOS | GNU/Linux (64-bit only) |
 | -- | -- | -- |
-| [Download](#) | [Download](#) | [Download](#) |
+| [Soon](#) | [Download](https://s.id/VidioMacOS) | [Soon](#) |
 
 
 
